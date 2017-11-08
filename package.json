@@ -1,0 +1,22 @@
+{
+  "name": "softprojects",
+  "version": "1.0.0",
+  "description": "A place to put my software projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+	"build": "webpack",
+	"start": "webpack-dev-server"
+  },
+  "author": "haodafan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1"
+  }
+}
