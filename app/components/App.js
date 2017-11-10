@@ -1,10 +1,23 @@
-var React = require('react');
-var ReactDOM = require('react=dom');
+import React from 'react';
 
-module.exports = {
-  class mainComponent extends React.Component {
-    render() {
-      return <h1> ATTENTION UNIVERSE, THIS IS A REACT APP. </h1>;
-    }
+import { Projects } from './projects.js';
+import { JumboNav } from './navjumbo.js';
+import { Footer } from './footer.js';
+
+export class mainComponent extends React.Component {
+  render() {
+    return (
+      <div>
+        <JumboNav />
+        <Projects />
+        <Footer />
+      </div>
+    );
   }
 }
+
+/*
+module.exports = {
+  mainComponent
+}
+*/

@@ -1,0 +1,20 @@
+{
+  "projects" : [
+    {
+      "id" : "0",
+      "img" : "../assets/badgario-splash.png",
+      "title" : "Badgario - A 💩 version of Agar.io",
+      "description" : "This project is the closest I have come to making a finished, playable game. I made it as a side project during my first work term (Fall 2017) as a way to learn the basics of game development. It plays exactly like Agar.io, the difference being that it is single player, and in order to win, you have to defeat a final boss. ",
+      "github" : "https://github.com/haodafan/badgario",
+      "download" : "https://github.com/haodafan/badgario"
+    },
+    {
+      "id" : "1",
+      "img" : "../assets/vector-splash.png",
+      "title" : "Vector Playground - Visualize vectors in 3d space!",
+      "description" : "My grade 12 computer science final project. I, along with 3 other classmates (We called ourselves MagV Studios, haha), created an application using the Unity 3d Game Engine to visualize vectors in a 3 dimensional environment. We needed to cater our app to a specific client and his needs, which in this case, was our grade 12 Calculus teacher, Mr. Hyde. ",
+      "github" : "https://github.com/haodafan/Vectors-Program",
+      "download" : "https://github.com/haodafan/Vectors-Program"
+    }
+  ]
+}
