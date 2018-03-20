@@ -18,20 +18,4 @@ Glad you think so.
 ## So... how are you doing today? 
 I'm doing well, thanks. Wait, since when did this turn into a weird conversation I'm having with myself? 
 
-## I'm not sure. You're kinda weird. 
-I'm not weird! You're weird! 
-
-## At least I can admit it. Or at least my half of you? Wait, what am I even supposed to be
-I have no idea, I thought I was me? What??? If I'm me and you're not me then who are you
-
-## I am me, you are you. 
-But wait we're the same person! 
-
-## Oh yeah. 
-Uh huh. I think we milked this cow far enough. 
-
-## Milked this cow far enough? What is this supposed to be, like a movie with too many sequels or something
-OKAY JEEZ THE MEME IS STALE GET OVER YOURSELF
-
-## Sorry. 
 I should eat dinner.
